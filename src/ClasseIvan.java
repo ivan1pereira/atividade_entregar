@@ -11,5 +11,6 @@
 public class ClasseIvan {
     public static void main(String[] args) {
         System.out.println("Olá Ivan");
+        System.out.println("Olá Natan");
     }
 }
